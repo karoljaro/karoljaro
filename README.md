@@ -1,4 +1,8 @@
-### Hi there, my name is Karol
+<h1 align="center">Hi 👋, I'm Karol</h1>
+<h3 align="center">A passionate frontend developer from Poland</h3>
+
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karoljaro&label=Profile%20views&color=0e75b6&style=flat" alt="karoljaro" /> </p>
 
 # Karol Jaron
 I'm Karol from Poland, I'm frontend development. I like learning programming languages and their frameworks such as Vue, Nuxt.js, Typescript, Prisma, etc.
@@ -98,3 +102,7 @@ I'm Karol from Poland, I'm frontend development. I like learning programming lan
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50"/>
   </a>
+
+<br />
+<hr />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karoljaro&" alt="karoljaro" /></p>
