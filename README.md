@@ -2,107 +2,43 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karoljaro&label=Profile%20views&color=0e75b6&style=flat" alt="karoljaro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karoljaro&label=Profile%20views&color=0e75b6&style=flat" alt="karolj aro" /> </p>
 
 # Karol Jaron
-I'm Karol from Poland, I'm frontend development. I like learning programming languages and their frameworks such as Vue, Nuxt.js, Typescript, Prisma, etc.
+I'm Karol from Poland, I'm frontend development. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
+React, and recently I have been dynamically learning Angular. I also pay attention to the performance, SEO and accessibility
+of websites. In addition, I have recently started to delve deeper into the backend and various technologies related to it.
+Increasing my competences is natural for me. <br/>
+
+<p style="color: red">Personal Portfolio --> Coming soon</p>
+<br/>
+<p>Below is a list of languages ​​and frameworks that I have learned to use.</p>
 <hr/>
-
+<div align="center">
+ 
 ## Programming Language
-<!-- -------- JAVASCIPT -------- -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<!-- -------- TYPESCRIPT -------- -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<!-- -------- PYTHON -------- -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
 <br />
-<br />
-
+  
 ## Frontend Development
-<!-- -------- HTML -------- -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<!-- --------  CSS -------- -->
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;
- 
-<!-- -------- VUE -------- -->
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<!-- -------- REACT -------- -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<!-- --------  TAILWINDCSS-------- -->
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
- </a>&nbsp;&nbsp;&nbsp;
- 
-<!-- --------  SCSS -------- -->
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
- </a>&nbsp;&nbsp;&nbsp;
-
- <br />
- <br />
+[![My Skills](https://skillicons.dev/icons?i=html,vue,nuxtjs,react,angular,css,sass,tailwind)](https://skillicons.dev)
+<br />
 
 ## Backend Development
-<!-- --------  NODE -------- -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<!-- --------  GRAPHQL -------- -->
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
-<!-- --------  PRISMA -------- -->
-<a href="https://www.prisma.io" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/prplx/svg-logos/blob/master/svg/prisma.svg" alt="graphql" width="60" height="60"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
- <br />
- <br />
+[![My Skills](https://skillicons.dev/icons?i=elysia,bun,nodejs,graphql,prisma)](https://skillicons.dev)
+<br />
 
  ## Database
-<!-- --------  MYSQL -------- -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-</a>&nbsp;&nbsp;&nbsp;
-
- <br />
- <br />
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<br />
 
 ## Backend as a Service(BaaS)
 <!-- --------  SUPABASE -------- -->
-<a href="https://supabase.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="50" height="50"/>
-</a>
+[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 
- <br />
- <br />
-
- ## Static Site Generators
- <!-- --------  NUXTJS -------- -->
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="50" height="50"/>
-  </a>
-
+## DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+</div>
 <br />
 <hr />
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karoljaro&" alt="karoljaro" /></p>
