@@ -41,8 +41,15 @@ Increasing my competences is natural for me. <br/>
 <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
 <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
 
+## 🧪 Test frameworks
+<a href="https://vitest.dev/"><img src="https://skillicons.dev/icons?i=vitest" alt="Elysia" /></a>
+<br />
 
- ## 🗄 Database
+## 🎨 UI/UX
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Elysia" /></a>
+<br />
+
+## 🗄 Database
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 <br />
 
