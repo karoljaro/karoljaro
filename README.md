@@ -20,6 +20,7 @@ Increasing my competences is natural for me. <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+<a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" alt="Python" /></a>
 <br />
   
 ## 🌐 Frontend Development
