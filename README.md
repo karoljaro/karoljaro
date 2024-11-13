@@ -16,28 +16,41 @@ Increasing my competences is natural for me. <br/>
 <hr/>
 <div align="center">
  
-## Programming Language
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev)
+## 🛠 Programming Language
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
 <br />
   
-## Frontend Development
-[![My Skills](https://skillicons.dev/icons?i=html,vue,nuxtjs,react,angular,css,sass,tailwind)](https://skillicons.dev)
+## 🌐 Frontend Development
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /></a>
+<a href="https://v3.nuxtjs.org/"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" /></a>
+<a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+<a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+<a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
 <br />
 
-## Backend Development
-[![My Skills](https://skillicons.dev/icons?i=elysia,bun,nodejs,graphql,prisma)](https://skillicons.dev)
+## ⚙️ Backend Development
+<a href="https://elysiajs.com/"><img src="https://skillicons.dev/icons?i=elysia" alt="Elysia" /></a>
+<a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+<a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
+
+
+ ## 🗄 Database
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 <br />
 
- ## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-<br />
-
-## Backend as a Service(BaaS)
+## ☁️ Backend as a Service(BaaS)
 <!-- --------  SUPABASE -------- -->
-[![My Skills](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 
-## DevOps
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+## 🚀 DevOps
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 </div>
 <br />
 <hr />
