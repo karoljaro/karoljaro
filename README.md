@@ -1,8 +1,11 @@
-<img src="https://github.com/user-attachments/assets/33cf8f17-e1bd-4a4b-9ee3-67fcef64d601" width="100%" />
+<img src="https://github.com/user-attachments/assets/31beb169-931f-4b79-8ac8-a45936a2faa0" width="100%" />
+<br />
+<br />
+<br />
 
-<h1 align="center">Hi 👋, I'm Karol</h1>
-
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&color=D8CEF3&background=FF1ED100&center=true&vCenter=true&multiline=true&repeat=false&width=508&height=70&lines=+Hello%2C+I'm+Karol+Jaro%C5%84;A+passionate+fullstack+developer" alt="Typing SVG" />
+</p>
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karoljaro&label=Profile%20views&color=0e75b6&style=flat" alt="karolj aro" /> </p>
