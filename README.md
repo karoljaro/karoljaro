@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- I'm Karol from Poland, I'm frontend development. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
+ I'm Karol from Poland, I'm frontend development with 3+ years of experience. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
 React, and recently I have been dynamically learning Angular. I also pay attention to the performance, SEO and accessibility
 of websites. In addition, I have recently started to delve deeper into the backend and various technologies related to it.
 Increasing my competences is natural for me. 
