@@ -9,7 +9,8 @@
 
 <br/>
 <br/>
-<hr />
+<br/>
+<br/>
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/86f4e9bc-e402-4cb1-8167-4b2a398f7795" />
@@ -22,9 +23,9 @@ of websites. In addition, I have recently started to delve deeper into the backe
 Increasing my competences is natural for me. 
 </p>
 
-
 <br />
-<hr/>
+<br />
+
 <div align="center">
  
 ## 🛠 Programming Language
@@ -74,3 +75,6 @@ Increasing my competences is natural for me.
 <br />
 <hr />
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karoljaro&" alt="karoljaro" /></p>
+
+<br />
+<img src="https://github.com/user-attachments/assets/8b0569a6-8c69-4e47-b42c-47000d732f91" width="100%" />
