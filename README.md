@@ -8,17 +8,22 @@
 </p>
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karoljaro&label=Profile%20views&color=0e75b6&style=flat" alt="karolj aro" /> </p>
+<br/>
+<hr />
 
-# Karol Jaron
-I'm Karol from Poland, I'm frontend development. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/86f4e9bc-e402-4cb1-8167-4b2a398f7795" />
+</p>
+
+<p align="center">
+ I'm Karol from Poland, I'm frontend development. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
 React, and recently I have been dynamically learning Angular. I also pay attention to the performance, SEO and accessibility
 of websites. In addition, I have recently started to delve deeper into the backend and various technologies related to it.
-Increasing my competences is natural for me. <br/>
+Increasing my competences is natural for me. 
+</p>
 
-<p style="color: red">Personal Portfolio --> Coming soon</p>
-<br/>
-<p>Below is a list of languages ​​and frameworks that I have learned to use.</p>
+
+<br />
 <hr/>
 <div align="center">
  
