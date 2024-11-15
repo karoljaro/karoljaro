@@ -1,4 +1,6 @@
+<img src="https://github.com/user-attachments/assets/087101b2-4c85-4570-aec5-b7ca3bb02640" width="100%" />
 <h1 align="center">Hi 👋, I'm Karol</h1>
+
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 <br/>
