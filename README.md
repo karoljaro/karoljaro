@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- I'm Karol from Poland, I'm frontend development with 3+ years of experience. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
+ I'm Karol from Poland, I'm fullstack development with 4+ years of experience. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
 React, and recently I have been dynamically learning Angular. I also pay attention to the performance, SEO and accessibility
 of websites. In addition, I have recently started to delve deeper into the backend and various technologies related to it.
 Increasing my competences is natural for me. 
@@ -26,8 +26,12 @@ Increasing my competences is natural for me.
 <br />
 <br />
 
+<p align="center" >
+ <img src="https://github.com/user-attachments/assets/44d98fda-5665-4086-9cc0-6a2cb80e0e7b" />
+</p>
+
 <div align="center">
- 
+
 ## 🛠 Programming Language
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
@@ -50,8 +54,11 @@ Increasing my competences is natural for me.
 <a href="https://elysiajs.com/"><img src="https://skillicons.dev/icons?i=elysia" alt="Elysia" /></a>
 <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://trpc.io/"><img style="width: 48px;" src="https://trpc.io/img/logo.svg" alt="TRPC" /></a>
 <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
 <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 
 ## 🧪 Test frameworks
 <a href="https://vitest.dev/"><img src="https://skillicons.dev/icons?i=vitest" alt="Elysia" /></a>
@@ -61,16 +68,13 @@ Increasing my competences is natural for me.
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Elysia" /></a>
 <br />
 
-## 🗄 Database
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-<br />
-
-## ☁️ Backend as a Service(BaaS)
-<!-- --------  SUPABASE -------- -->
-<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
 
 ## 🚀 DevOps
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Linux" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
 </div>
 <br />
 <hr />
