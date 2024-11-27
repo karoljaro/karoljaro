@@ -48,6 +48,8 @@ Increasing my competences is natural for me.
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
 <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+<a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="vite" /></a>
+<a href="https://pinia.vuejs.org/"><img src="https://skillicons.dev/icons?i=pinia" alt="pinia" /></a>
 <br />
 
 ## ⚙️ Backend Development
@@ -73,7 +75,9 @@ Increasing my competences is natural for me.
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Linux" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="git" /></a>
+<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+<a href="https://www.microsoft.com/pl-pl/windows/windows-11"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
 <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
 </div>
 <br />
