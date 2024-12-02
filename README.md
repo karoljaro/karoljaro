@@ -32,6 +32,7 @@ Increasing my competences is natural for me.
 
 <div align="center">
 
+
 ## 🛠 Programming Language
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
@@ -50,6 +51,7 @@ Increasing my competences is natural for me.
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
 <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="vite" /></a>
 <a href="https://pinia.vuejs.org/"><img src="https://skillicons.dev/icons?i=pinia" alt="pinia" /></a>
+<a href="https://gsap.com/"><img src="https://github.com/user-attachments/assets/8102dba4-7218-4adb-99f8-d9c4fb13ce5f" alt="GSAP" /></a>
 <br />
 
 ## ⚙️ Backend Development
