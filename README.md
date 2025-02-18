@@ -1,22 +1,22 @@
-<img src="https://github.com/user-attachments/assets/31beb169-931f-4b79-8ac8-a45936a2faa0" width="100%" />
+<!-- <img src="https://img.shields.io/badge/Bun-61DBFB?style=for-the-badge&logo=bun&labelColor=black"/> -->
+<!-- <img src="https://github.com/user-attachments/assets/73a5d15c-c0c9-4af2-a32d-750ccedf0c84" width="100%" /> -->
+<!-- <img src="https://github.com/user-attachments/assets/f5932db3-7733-423c-9829-a7b8d194997d" /> -->
+![Profile baner](https://github.com/user-attachments/assets/e0acd300-ed3e-42fc-892e-1e426bab2f2a)
+
 <br />
+
+> **Fullstack web developer** with 4+ years of experience.
+
+> **Portfolio**: Comming soon
+
+> **Status**: HKcode Fullstack web developer
+
+<hr />
 <br />
-<br />
 
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&color=D8CEF3&background=FF1ED100&center=true&vCenter=true&multiline=true&repeat=false&width=508&height=70&lines=+Hello%2C+I'm+Karol+Jaro%C5%84;A+passionate+fullstack+developer" alt="Typing SVG" />
-</p>
+![About_me](https://github.com/user-attachments/assets/386468f8-bec7-463a-be62-91631a0de4e2)
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-<p align="center">
- <img src="https://github.com/user-attachments/assets/86f4e9bc-e402-4cb1-8167-4b2a398f7795" />
-</p>
-
-<p align="center">
+<p align="left">
  I'm Karol from Poland, I'm fullstack development with 4+ years of experience. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
 React, and recently I have been dynamically learning Angular. I also pay attention to the performance, SEO and accessibility
 of websites. In addition, I have recently started to delve deeper into the backend and various technologies related to it.
@@ -26,10 +26,30 @@ Increasing my competences is natural for me.
 <br />
 <br />
 
-<p align="center" >
- <img src="https://github.com/user-attachments/assets/44d98fda-5665-4086-9cc0-6a2cb80e0e7b" />
-</p>
+![My_skillset](https://github.com/user-attachments/assets/2a4b6ae0-83a7-41fe-b4af-324a6a54206e)
 
+<div>
+ <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+ <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+ <a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" alt="Python" /></a>
+ <a href="https://v3.nuxtjs.org/"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt.js" /></a>
+ <a href="https://angular.io/"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" /></a>
+ <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+ <a href="https://sass-lang.com/"><img src="https://skillicons.dev/icons?i=sass" alt="Sass" /></a>
+ <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+ <a href="https://vitest.dev/"><img src="https://skillicons.dev/icons?i=vitest" alt="Elysia" /></a>
+ <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" alt="Bun" /></a>
+ <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+ <a href="https://elysiajs.com/"><img src="https://skillicons.dev/icons?i=elysia" alt="Elysia" /></a>
+ <a href="https://trpc.io/"><img style="width: 48px;" src="https://trpc.io/img/logo.svg" alt="TRPC" /></a>
+ <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></a>
+ <a href="https://www.prisma.io/"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
+ <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+ <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
+ <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+</div>
+
+<!-- 
 <div align="center">
 
 
@@ -88,3 +108,4 @@ Increasing my competences is natural for me.
 
 <br />
 <img src="https://github.com/user-attachments/assets/8b0569a6-8c69-4e47-b42c-47000d732f91" width="100%" />
+-->
