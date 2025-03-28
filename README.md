@@ -9,7 +9,7 @@
 
 > **Portfolio**: Comming soon
 
-> **Status**: HKcode Fullstack web developer
+> **Status**: HKcode Fullstack web developer (Freelancer)
 
 <hr />
 <br />
