@@ -7,7 +7,7 @@
 
 > **Fullstack web developer** with 4+ years of experience.
 
-> **Portfolio**: Comming soon
+> **Portfolio**: [Portfolio link](https://portfolio-nu-ten-3hkyjjucby.vercel.app/)
 
 > **Status**: HKcode Fullstack web developer (Freelancer)
 
