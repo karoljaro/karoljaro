@@ -17,10 +17,13 @@
 ![About_me](https://github.com/user-attachments/assets/386468f8-bec7-463a-be62-91631a0de4e2)
 
 <p align="left">
- I'm Karol from Poland, I'm fullstack development with 4+ years of experience. Creating web applications using modern frameworks is my everyday passion. I really like to learn new technologies and constantly improve my skills. I have mastered frameworks such as Vue, Nuxt 3,
-React, and recently I have been dynamically learning Angular. I also pay attention to the performance, SEO and accessibility
-of websites. In addition, I have recently started to delve deeper into the backend and various technologies related to it.
-Increasing my competences is natural for me. 
+I'm Karol, a **Fullstack Web Developer** from Poland with **4+ years of experience** in building advanced web applications. I focus on combining **frontend expertise** with solid **backend development**, maintaining **clean architecture** and **performance optimization** as core priorities.
+<br />
+<br />
+Good code isn't just about functionality—it needs to be **well-structured**, **maintainable**, and **efficient**. I follow **Clean Architecture** principles and **SOLID** practices to ensure projects remain scalable and easy to work with.
+<br />
+<br />
+My approach emphasizes building applications where every component serves its purpose and performance aligns with code clarity. Beyond traditional web development, I'm exploring **mobile app development** and **AI integration**, continuously adapting to new technologies and frameworks.
 </p>
 
 <br />
