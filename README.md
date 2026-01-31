@@ -18,11 +18,9 @@
 
 <p align="left">
 I'm Karol, a **Fullstack Web Developer** from Poland with **4+ years of experience** in building advanced web applications. I focus on combining **frontend expertise** with solid **backend development**, maintaining **clean architecture** and **performance optimization** as core priorities.
-<br />
-<br />
+
 Good code isn't just about functionality—it needs to be **well-structured**, **maintainable**, and **efficient**. I follow **Clean Architecture** principles and **SOLID** practices to ensure projects remain scalable and easy to work with.
-<br />
-<br />
+
 My approach emphasizes building applications where every component serves its purpose and performance aligns with code clarity. Beyond traditional web development, I'm exploring **mobile app development** and **AI integration**, continuously adapting to new technologies and frameworks.
 </p>
 
