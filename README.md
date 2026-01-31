@@ -1,6 +1,3 @@
-<!-- <img src="https://img.shields.io/badge/Bun-61DBFB?style=for-the-badge&logo=bun&labelColor=black"/> -->
-<!-- <img src="https://github.com/user-attachments/assets/73a5d15c-c0c9-4af2-a32d-750ccedf0c84" width="100%" /> -->
-<!-- <img src="https://github.com/user-attachments/assets/f5932db3-7733-423c-9829-a7b8d194997d" /> -->
 ![Profile baner](https://github.com/user-attachments/assets/e0acd300-ed3e-42fc-892e-1e426bab2f2a)
 
 <br />
@@ -17,12 +14,25 @@
 ![About_me](https://github.com/user-attachments/assets/386468f8-bec7-463a-be62-91631a0de4e2)
 
 <p align="left">
-I'm Karol, a **Fullstack Web Developer** from Poland with **4+ years of experience** in building advanced web applications. I focus on combining **frontend expertise** with solid **backend development**, maintaining **clean architecture** and **performance optimization** as core priorities.
 
-Good code isn't just about functionality—it needs to be **well-structured**, **maintainable**, and **efficient**. I follow **Clean Architecture** principles and **SOLID** practices to ensure projects remain scalable and easy to work with.
+ I'm Karol, a **Fullstack Web Developer** from Poland with **4+ years of experience** in building advanced web applications. I focus on combining **frontend expertise** with solid **backend development**, maintaining **clean architecture** and **performance optimization** as core priorities.
+ 
+ Good code isn't just about functionality. It needs to be **well-structured**, **maintainable**, and **efficient**. I follow **Clean Architecture** principles and **SOLID** practices to ensure projects remain scalable and easy to work with.
+ 
+ My approach emphasizes building applications where every component serves its purpose and performance aligns with code clarity. Beyond traditional web development, I'm exploring **mobile app development** and **AI integration**, continuously adapting to new technologies and frameworks.
 
-My approach emphasizes building applications where every component serves its purpose and performance aligns with code clarity. Beyond traditional web development, I'm exploring **mobile app development** and **AI integration**, continuously adapting to new technologies and frameworks.
 </p>
+<!-- bold doesnt work if later will be change -->
+<!-- <p align="left">
+ I'm Karol, a **Fullstack Web Developer** from Poland with **4+ years of experience** in building advanced web applications. I focus on combining **frontend expertise** with solid **backend development**, maintaining **clean architecture** and **performance optimization** as core priorities.
+ <br />
+ <br />
+ Good code isn't just about functionality—it needs to be **well-structured**, **maintainable**, and **efficient**. I follow **Clean Architecture** principles and **SOLID** practices to ensure projects remain scalable and easy to work with.
+ <br />
+ <br />
+ My approach emphasizes building applications where every component serves its purpose and performance aligns with code clarity. Beyond traditional web development, I'm exploring **mobile app development** and **AI integration**, continuously adapting to new technologies and frameworks.
+</p> -->
+
 
 <br />
 <br />
