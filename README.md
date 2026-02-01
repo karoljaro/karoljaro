@@ -6,7 +6,7 @@
 
 > **Portfolio**: [Portfolio link](https://portfolio-nu-ten-3hkyjjucby.vercel.app/)
 
-> **Status**: HKcode Fullstack web developer (Freelancer)
+> **Status**: Looking for job.
 
 <hr />
 <br />
@@ -22,6 +22,29 @@
  My approach emphasizes building applications where every component serves its purpose and performance aligns with code clarity. Beyond traditional web development, I'm exploring **mobile app development** and **AI integration**, continuously adapting to new technologies and frameworks.
 
 </p>
+
+<hr />
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-2F855A?style=for-the-badge&logo=nuxt&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=tRPC&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-1F3D33?style=for-the-badge&logo=vitest&logoColor=white)
+
+
+
+
+
+
+
+
 <!-- bold doesnt work if later will be change -->
 <!-- <p align="left">
  I'm Karol, a **Fullstack Web Developer** from Poland with **4+ years of experience** in building advanced web applications. I focus on combining **frontend expertise** with solid **backend development**, maintaining **clean architecture** and **performance optimization** as core priorities.
@@ -34,12 +57,14 @@
 </p> -->
 
 
-<br />
+<!-- <br />
 <br />
 
-![My_skillset](https://github.com/user-attachments/assets/2a4b6ae0-83a7-41fe-b4af-324a6a54206e)
+![My_skillset](https://github.com/user-attachments/assets/2a4b6ae0-83a7-41fe-b4af-324a6a54206e) -->
 
-<div>
+
+
+<!-- <div>
  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
  <a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c" alt="Python" /></a>
@@ -58,7 +83,7 @@
  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" /></a>
  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-</div>
+</div> -->
 
 <!-- 
 <div align="center">
